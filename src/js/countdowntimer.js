@@ -23,6 +23,7 @@
  */
 // const secs = Math.floor((time % (1000 * 60)) / 1000);
 
+//  2 способ Таймер (Веник Александр)
 
 class Timer{
     constructor(selector, countdown){
